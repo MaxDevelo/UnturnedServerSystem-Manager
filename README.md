@@ -5,8 +5,7 @@ The software uses some tools (file management) from USO [see tools](https://gith
 
 Images:
 
-![i5](https://user-images.githubusercontent.com/86760026/155068159-6aa75a54-8351-4639-a5b7-cbc27dcfbe66.PNG)
-![i4](https://user-images.githubusercontent.com/86760026/155068161-4b713733-1e90-4171-b7ad-fd8f34dabe9a.PNG)
-![i3](https://user-images.githubusercontent.com/86760026/155068164-1eabf909-3de6-418c-ab11-29e70bf606d3.PNG)
-![i2](https://user-images.githubusercontent.com/86760026/155068167-50ad5ed3-b68f-4bca-a5e6-7549d3d51136.PNG)
-![i1](https://user-images.githubusercontent.com/86760026/155068170-2a80b2ff-46ee-4759-a3c7-3fc8d91dff26.PNG)
+![3](https://user-images.githubusercontent.com/86760026/155856181-216f7d15-4582-44b8-8d0f-695a65b22bde.PNG)
+![2](https://user-images.githubusercontent.com/86760026/155856182-6d78b1cf-5808-4b10-87c3-228cf7232a5d.PNG)
+![1](https://user-images.githubusercontent.com/86760026/155856184-05b5f968-86d7-42c9-bc6b-0d094942c276.PNG)
+![4](https://user-images.githubusercontent.com/86760026/155856185-dfbbb28b-a4e4-4782-9267-b1d184b6557e.PNG)

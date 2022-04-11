@@ -4,7 +4,7 @@ Unturned Server System is a server building and hosting software based on unturn
 The software uses some tools (file management) from USO [see tools](https://github.com/discounter24/uso_cli)  Of course, many updates will be available soon.
 Version:
 
-v 1.0.0 :
+**v 1.0.0 :**
 - System Rocket mod.
 - System workshop.
 - Change config.json
